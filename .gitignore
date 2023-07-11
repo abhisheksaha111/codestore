@@ -1,4 +1,3 @@
-.css
-.java
-.html
-.acv
+*.css
+*.java
+*.html
